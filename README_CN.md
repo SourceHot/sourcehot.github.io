@@ -28,4 +28,10 @@
 - 在[此项目](https://github.com/SourceHot/sourcehot.github.io)的 [issues](https://github.com/SourceHot/sourcehot.github.io/issues/1) 提交申请需求
 - 发送邮件到 [huifer97@163.com](huifer97@163.com) 并注明你的GitHub ID, 如 [huifer](https://github.com/huifer).
 
+## 操作说明
+
+- 英文文档 : [OperationInstructions](OperationInstructions.md)
+
+- 中文文档: [操作指南](OperationInstructions_CN.md)
+
 ## 贡献者列表

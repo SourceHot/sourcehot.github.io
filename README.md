@@ -33,4 +33,12 @@ See the [中文文档](README_CN.md) for Chinese README .
 
 
 
+
+
+## Operation Instructions
+
+- English document : [OperationInstructions](OperationInstructions.md)
+
+- 中文文档: [操作指南](OperationInstructions_CN.md)
+
 ## Contributors
