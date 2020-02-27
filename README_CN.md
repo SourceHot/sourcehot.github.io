@@ -2,6 +2,8 @@
 
 嘿，欢迎来到[SourceHot](https://github.com/SourceHot)开源组织，主要以源代码注释分析为主要开发方向。
 
+英文文档请看 [README](README.md) .
+
 ## 链接
 - GitHub : https://github.com/SourceHot
 
@@ -18,8 +20,6 @@
 | #    | Project                                                   | Description              |
 | ---- | --------------------------------------------------------- | ------------------------ |
 | 1    | [mybatis-read](https://github.com/SourceHot/mybatis-read) | mybatis 源码分析阅读仓库 |
-|      |                                                           |                          |
-|      |                                                           |                          |
 
 
 

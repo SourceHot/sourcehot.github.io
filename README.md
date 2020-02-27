@@ -4,6 +4,8 @@ Hey , Welcome to the [SourceHot](https://github.com/SourceHot) Open Source organ
 
 
 
+See the [中文文档](README_CN.md) for Chinese README .
+
 ## link
 
 - GitHub : https://github.com/SourceHot
@@ -21,8 +23,6 @@ Hey , Welcome to the [SourceHot](https://github.com/SourceHot) Open Source organ
 | #    | Project                                                   | Description                               |
 | ---- | --------------------------------------------------------- | ----------------------------------------- |
 | 1    | [mybatis-read](https://github.com/SourceHot/mybatis-read) | mybatis Source reading analysis warehouse |
-|      |                                                           |                                           |
-|      |                                                           |                                           |
 
 
 
