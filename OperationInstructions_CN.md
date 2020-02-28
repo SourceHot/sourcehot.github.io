@@ -38,7 +38,7 @@
 
 ## 包路径
 
-- 包路径以**`com.sourcehot`**开始
+- 包路径以**`org.sourcehot`**开始
 
 ## 子工程
 

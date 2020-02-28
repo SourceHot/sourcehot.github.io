@@ -38,7 +38,7 @@ waiting your import is done
 
 ## Package path
 
-- start package path with **`com.sourcehot`**
+- start package path with **`org.sourcehot`**
 
 ## Son project
 
